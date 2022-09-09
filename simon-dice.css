@@ -1,0 +1,39 @@
+#cartel-tablero-1 {
+  background-color: greenyellow;
+  opacity: 0.5;
+  transition-duration: 500ms;
+}
+
+#cartel-tablero-2 {
+  background-color: lightcoral;
+  opacity: 0.5;
+  transition-duration: 500ms;
+}
+
+#cartel-tablero-3 {
+  background-color: yellow;
+  opacity: 0.5;
+  transition-duration: 500ms;
+}
+
+#cartel-tablero-4 {
+  background-color: lightskyblue;
+  opacity: 0.5;
+  transition-duration: 500ms;
+}
+
+#cartel-turno-maquina {
+  opacity: 0.5;
+}
+
+#cartel-turno-jugador {
+  opacity: 0.5;
+}
+
+#boton-empezar {
+  --bs-btn-font-weight: 600;
+}
+
+body {
+  background-color: black;
+}

@@ -1,0 +1,25 @@
+{
+  "name": "simon-dice",
+  "version": "1.0.0",
+  "description": "juego de simon dice para r/argentina-programa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelcav/simon-dice.git"
+  },
+  "author": "axel cavigioli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axelcav/simon-dice/issues"
+  },
+  "homepage": "https://github.com/axelcav/simon-dice#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
